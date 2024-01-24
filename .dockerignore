@@ -1,0 +1,11 @@
+# --- Index ---
+.DS_Store
+.ide
+mongodb
+redis
+
+# --- Main ---
+main/node_modules
+main/.env
+main/.yarn
+main/.pnp.cjs

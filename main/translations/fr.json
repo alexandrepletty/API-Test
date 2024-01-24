@@ -1,0 +1,10 @@
+{
+	"error": {
+		"manyRequests": "Trop de requêtes.",
+		"privileges": "Le port {{port}} nécessite des privilèges élevés",
+		"alreadyInUse": "Le port {{port}} est déjà en cours d'utilisation",
+		"userNotFound": "Utilisateur non trouvé",
+		"invalidRefreshToken": "Jeton de rafraîchissement invalide",
+		"invalidToken": "Jeton invalide, veuillez vous reconnecter"
+	}
+}

@@ -1,0 +1,13 @@
+# --- Index ---
+.DS_Store
+.ide
+mongo
+redis
+.env
+
+# --- Main ---
+main/node_modules
+main/.env
+main/.yarn
+main/.pnp.cjs
+main/dist

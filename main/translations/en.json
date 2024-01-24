@@ -1,0 +1,10 @@
+{
+	"error": {
+		"manyRequests": "Too many requests.",
+		"privileges": "Port {{port}} requires elevated privileges",
+		"alreadyInUse": "Port {{port}} is already in use",
+		"userNotFound": "User not found",
+		"invalidRefreshToken": "Invalid refresh token",
+		"invalidToken": "Invalid token, please log in again"
+	}
+}
